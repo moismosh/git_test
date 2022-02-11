@@ -1,3 +1,4 @@
 Hello World
 This is mosh
 I learn to add my Git to GitHub
+checking git commit
